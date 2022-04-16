@@ -1,0 +1,3712 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "en": "how's work going?",
+      "mean": "việc làm thế nào rồi?",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "en": "Be careful.",
+      "mean": "Hãy cẩn thận.",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "en": "Be careful driving.",
+      "mean": "Lái xe cẩn thận.",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "en": "Can you translate this for me?",
+      "mean": "Bạn có thể dịch cho tôi cái này được không?",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "en": "Help!",
+      "mean": "Giúp tôi!",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "en": "He's right.",
+      "mean": "Anh ta đúng.",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "en": "I'm an American.",
+      "mean": "Tôi là một người Mỹ.",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "en": "I'm not busy.",
+      "mean": "Tôi không bận.",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "en": "I've been here for two days.",
+      "mean": "Tôi đã ở đây 2 ngày.",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "en": "Just a moment.",
+      "mean": "Chờ một chút.",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "en": "May I speak to Mrs. Smith please?",
+      "mean": "Tôi có thể nói với bà Smith không, xin vui lòng?",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "en": "I'm going to leave.",
+      "mean": "Tôi sắp đi.",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "en": "I hope you and your wife have a nice trip.",
+      "mean": "Tôi hy vọng bạn và vợ bạn có một chuyến đi thú vị.",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "en": "I'll take it.",
+      "mean": "Tôi sẽ mua nó.",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "en": "I'm happy.",
+      "mean": "Tôi vui.",
+      "note": ""
+    },
+    {
+      "id": 16,
+      "en": "I'm not sure.",
+      "mean": "Tôi không chắc.",
+      "note": ""
+    },
+    {
+      "id": 17,
+      "en": "I need to change clothes.",
+      "mean": "Tôi cần thay quần áo.",
+      "note": ""
+    },
+    {
+      "id": 18,
+      "en": "I think it's very good.",
+      "mean": "Tôi nghĩ nó rất tốt.",
+      "note": ""
+    },
+    {
+      "id": 19,
+      "en": "I think it tastes good.",
+      "mean": "Tôi nghĩ nó ngon.",
+      "note": ""
+    },
+    {
+      "id": 20,
+      "en": "Never mind.",
+      "mean": "Đừng bận tâm.",
+      "note": ""
+    },
+    {
+      "id": 21,
+      "en": "No.",
+      "mean": "Không.",
+      "note": ""
+    },
+    {
+      "id": 22,
+      "en": "How's work going?",
+      "mean": "Việc làm thế nào?",
+      "note": ""
+    },
+    {
+      "id": 23,
+      "en": "He likes it very much.",
+      "mean": "Anh ta thích nó lắm.",
+      "note": ""
+    },
+    {
+      "id": 24,
+      "en": "I ate already.",
+      "mean": "Tôi đã ăn rồi.",
+      "note": ""
+    },
+    {
+      "id": 25,
+      "en": "I like her.",
+      "mean": "Tôi thích cô ta.",
+      "note": ""
+    },
+    {
+      "id": 26,
+      "en": "I'm good, and you?",
+      "mean": "Tôi khỏe, còn bạn?",
+      "note": ""
+    },
+    {
+      "id": 27,
+      "en": "I'm not married.",
+      "mean": "Tôi không có gia đình.",
+      "note": ""
+    },
+    {
+      "id": 28,
+      "en": "I'm not ready yet.",
+      "mean": "Tôi chưa sẵn sàng.",
+      "note": ""
+    },
+    {
+      "id": 29,
+      "en": "I need to go home.",
+      "mean": "Tôi cần về nhà.",
+      "note": ""
+    },
+    {
+      "id": 30,
+      "en": "How are you?",
+      "mean": "Bạn khỏe không?",
+      "note": ""
+    },
+    {
+      "id": 31,
+      "en": "I'm cleaning my room.",
+      "mean": "Tôi đang lau chùi phòng.",
+      "note": ""
+    },
+    {
+      "id": 32,
+      "en": "I don't want that.",
+      "mean": "Tôi không muốn cái đó.",
+      "note": ""
+    },
+    {
+      "id": 33,
+      "en": "If you need my help, please let me know.",
+      "mean": "Nếu bạn cần tôi giúp đỡ, làm ơn cho tôi biết.",
+      "note": ""
+    },
+    {
+      "id": 34,
+      "en": "I'll pay.",
+      "mean": "Tôi sẽ trả.",
+      "note": ""
+    },
+    {
+      "id": 35,
+      "en": "Is Mr. Smith an American?",
+      "mean": "Ông Smith có phải là người Mỹ không?",
+      "note": ""
+    },
+    {
+      "id": 36,
+      "en": "I've never seen that before.",
+      "mean": "Tôi chưa bao giờ thấy cái đó trước đây.",
+      "note": ""
+    },
+    {
+      "id": 37,
+      "en": "Let's go have a look.",
+      "mean": "Chúng ta hãy đi xem.",
+      "note": ""
+    },
+    {
+      "id": 38,
+      "en": "I get off of work at 6.",
+      "mean": "Tôi xong việc lúc 6 giờ.",
+      "note": ""
+    },
+    {
+      "id": 39,
+      "en": "Don't worry.",
+      "mean": "Đừng lo.",
+      "note": ""
+    },
+    {
+      "id": 40,
+      "en": "I feel good.",
+      "mean": "Tôi cảm thấy khỏe.",
+      "note": ""
+    },
+    {
+      "id": 41,
+      "en": "I know.",
+      "mean": "Tôi biết.",
+      "note": ""
+    },
+    {
+      "id": 42,
+      "en": "I'll come back later.",
+      "mean": "Tôi sẽ trở lại sau.",
+      "note": ""
+    },
+    {
+      "id": 43,
+      "en": "I'm coming to pick you up.",
+      "mean": "Tôi đang tới đón bạn.",
+      "note": ""
+    },
+    {
+      "id": 44,
+      "en": "I'm very busy. I don't have time now.",
+      "mean": "Tôi rất bận. Bây giờ tôi không có thời gian.",
+      "note": ""
+    },
+    {
+      "id": 45,
+      "en": "Next time.",
+      "mean": "Kỳ tới.",
+      "note": ""
+    },
+    {
+      "id": 46,
+      "en": "I only want a snack.",
+      "mean": "Tôi chỉ cần món ăn nhẹ.",
+      "note": ""
+    },
+    {
+      "id": 47,
+      "en": "It's longer than 2 miles.",
+      "mean": "Nó dài hơn 2 dặm.",
+      "note": ""
+    },
+    {
+      "id": 48,
+      "en": "Let me think about it.",
+      "mean": "Để tôi suy nghĩ về việc đó.",
+      "note": ""
+    },
+    {
+      "id": 49,
+      "en": "More than that.",
+      "mean": "Hơn thế.",
+      "note": ""
+    },
+    {
+      "id": 50,
+      "en": "I'll call you when I leave.",
+      "mean": "Tôi sẽ gọi bạn khi tôi ra đi.",
+      "note": ""
+    },
+    {
+      "id": 51,
+      "en": "Good idea.",
+      "mean": "Ý kiến hay.",
+      "note": ""
+    },
+    {
+      "id": 52,
+      "en": "He's very famous.",
+      "mean": "Anh ta rất nổi tiếng.",
+      "note": ""
+    },
+    {
+      "id": 53,
+      "en": "I don't know how to use it.",
+      "mean": "Tôi không biết cách dùng nó.",
+      "note": ""
+    },
+    {
+      "id": 54,
+      "en": "I don't like him.",
+      "mean": "Tôi không thích anh ta.",
+      "note": ""
+    },
+    {
+      "id": 55,
+      "en": "I don't speak very well.",
+      "mean": "Tôi không nói giỏi lắm",
+      "note": ""
+    },
+    {
+      "id": 56,
+      "en": "I'll take you to the bus stop.",
+      "mean": "Tôi sẽ đưa bạn tới trạm xe buýt.",
+      "note": ""
+    },
+    {
+      "id": 57,
+      "en": "I'm thirsty.",
+      "mean": "Tôi khát.",
+      "note": ""
+    },
+    {
+      "id": 58,
+      "en": "Is that enough?",
+      "mean": "Như vậy đủ không?",
+      "note": ""
+    },
+    {
+      "id": 59,
+      "en": "Not yet.",
+      "mean": "Chưa.",
+      "note": ""
+    },
+    {
+      "id": 60,
+      "en": "I'm cold.",
+      "mean": "Tôi lạnh.",
+      "note": ""
+    },
+    {
+      "id": 61,
+      "en": "I'm sorry, we're sold out.",
+      "mean": "Tôi rất tiếc, chúng tôi hết hàng.",
+      "note": ""
+    },
+    {
+      "id": 62,
+      "en": "I was about to leave the restaurant when my friends arrived.",
+      "mean": "Tôi sắp rời nhà hàng khi những người bạn của tôi tới.",
+      "note": ""
+    },
+    {
+      "id": 63,
+      "en": "Just a little.",
+      "mean": "Một ít thôi.",
+      "note": ""
+    },
+    {
+      "id": 64,
+      "en": "Let's practice English.",
+      "mean": "Chúng ta hãy thực hành tiếng Anh.",
+      "note": ""
+    },
+    {
+      "id": 65,
+      "en": "Nonsense.",
+      "mean": "Vô lý.",
+      "note": ""
+    },
+    {
+      "id": 66,
+      "en": "No, thank you.",
+      "mean": "Không, cám ơn.",
+      "note": ""
+    },
+    {
+      "id": 67,
+      "en": "I don't want it.",
+      "mean": "Tôi không muốn nó.",
+      "note": ""
+    },
+    {
+      "id": 68,
+      "en": "Excellent.",
+      "mean": "Xuất sắc.",
+      "note": ""
+    },
+    {
+      "id": 69,
+      "en": "Let me check.",
+      "mean": "Để tôi kiểm tra.",
+      "note": ""
+    },
+    {
+      "id": 70,
+      "en": "From time to time.",
+      "mean": "Thỉnh thoảng.",
+      "note": ""
+    },
+    {
+      "id": 71,
+      "en": "He's coming soon.",
+      "mean": "Anh ta sắp tới.",
+      "note": ""
+    },
+    {
+      "id": 72,
+      "en": "I can't hear you.",
+      "mean": "Tôi không thể nghe bạn nói.",
+      "note": ""
+    },
+    {
+      "id": 73,
+      "en": "I'd like to go for a walk.",
+      "mean": "Tôi muốn đi dạo.",
+      "note": ""
+    },
+    {
+      "id": 74,
+      "en": "I have a headache.",
+      "mean": "Tôi bị nhức đầu.",
+      "note": ""
+    },
+    {
+      "id": 75,
+      "en": "I love you.",
+      "mean": "Tôi yêu bạn.",
+      "note": ""
+    },
+    {
+      "id": 76,
+      "en": "I'm married.",
+      "mean": "Tôi có gia đình.",
+      "note": ""
+    },
+    {
+      "id": 77,
+      "en": "Everyone knows it.",
+      "mean": "Mọi người biết điều đó.",
+      "note": ""
+    },
+    {
+      "id": 78,
+      "en": "I don't understand.",
+      "mean": "Tôi không hiểu.",
+      "note": ""
+    },
+    {
+      "id": 79,
+      "en": "Chicago is very different from Boston.",
+      "mean": "Chicago rất khác Boston.",
+      "note": ""
+    },
+    {
+      "id": 80,
+      "en": "Hurry!",
+      "mean": "Nhanh lên!",
+      "note": ""
+    },
+    {
+      "id": 81,
+      "en": "I've heard Texas is a beautiful place.",
+      "mean": "Tôi đã nghe Texas là một nơi đẹp.",
+      "note": ""
+    },
+    {
+      "id": 82,
+      "en": "Not recently.",
+      "mean": "Không phải lúc gần đây.",
+      "note": ""
+    },
+    {
+      "id": 83,
+      "en": "Nothing else.",
+      "mean": "Không còn gì khác.",
+      "note": ""
+    },
+    {
+      "id": 84,
+      "en": "Everything is ready.",
+      "mean": "Mọi thứ đã sẵn sàng.",
+      "note": ""
+    },
+    {
+      "id": 85,
+      "en": "He's very annoying.",
+      "mean": "Anh ta quấy rối quá.",
+      "note": ""
+    },
+    {
+      "id": 86,
+      "en": "I don't like it.",
+      "mean": "Tôi không thích nó.",
+      "note": ""
+    },
+    {
+      "id": 87,
+      "en": "I don't want to bother you.",
+      "mean": "Tôi không muốn làm phiền bạn.",
+      "note": ""
+    },
+    {
+      "id": 88,
+      "en": "I lost my watch.",
+      "mean": "Tôi bị mất đồng hồ.",
+      "note": ""
+    },
+    {
+      "id": 89,
+      "en": "I'm hungry.",
+      "mean": "Tôi đói.",
+      "note": ""
+    },
+    {
+      "id": 90,
+      "en": "I thought the clothes were cheaper.",
+      "mean": "Tôi nghĩ quần áo rẻ hơn.",
+      "note": ""
+    },
+    {
+      "id": 91,
+      "en": "This is very important.",
+      "mean": "Điều này rất quan trọng.",
+      "note": ""
+    },
+    {
+      "id": 92,
+      "en": "Thank you.",
+      "mean": "Cám ơn.",
+      "note": ""
+    },
+    {
+      "id": 93,
+      "en": "Okay.",
+      "mean": "Được.",
+      "note": ""
+    },
+    {
+      "id": 94,
+      "en": "Very good, thanks.",
+      "mean": "Rất tốt, cám ơn.",
+      "note": ""
+    },
+    {
+      "id": 95,
+      "en": "From here to there.",
+      "mean": "Từ đây đến đó.",
+      "note": ""
+    },
+    {
+      "id": 96,
+      "en": "How long does it take by car?",
+      "mean": "Đi bằng xe mất bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 97,
+      "en": "How long does it take to get to Georgia?",
+      "mean": "Tới Georgia mất bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 98,
+      "en": "I'd like to make a reservation.",
+      "mean": "Tôi muốn đặt trước.",
+      "note": ""
+    },
+    {
+      "id": 99,
+      "en": "One way or round trip?",
+      "mean": "Một chiều hay khứ hồi?",
+      "note": ""
+    },
+    {
+      "id": 100,
+      "en"en"Please take me to this address.",
+      "mean": "Làm ơn đưa tôi tới địa chỉ này.",
+      "note": ""
+    },
+    {
+      "id": 101,
+      "en"en"See you tomorrow.",
+      "mean": "Gặp bạn ngày mai.",
+      "note": ""
+    },
+    {
+      "id": 102,
+      "en"en"That smells bad.",
+      "mean": "Cái đó ngửi hôi.",
+      "note": ""
+    },
+    {
+      "id": 103,
+      "en"en"You're beautiful.",
+      "mean": "Bạn đẹp.",
+      "note": ""
+    },
+    {
+      "id": 104,
+      "en"en"Good afternoon.",
+      "mean": "Chào (buổi chiều)",
+      "note": ""
+    },
+    {
+      "id": 105,
+      "en"en"I'm coming right now.",
+      "mean": "Tôi tới ngay.",
+      "note": ""
+    },
+    {
+      "id": 106,
+      "en"en"The plane departs at 5:30P.",
+      "mean": "Máy bay cất cánh lúc 5:30 chiều.",
+      "note": ""
+    },
+    {
+      "id": 107,
+      "en"en"That's fine.",
+      "mean": "Như vậy tốt rồi.",
+      "note": ""
+    },
+    {
+      "id": 108,
+      "en"en"That's too many.",
+      "mean": "Như vậy nhiều quá.",
+      "note": ""
+    },
+    {
+      "id": 109,
+      "en"en"Yes, really.",
+      "mean": "Vâng, thực sự.",
+      "note": ""
+    },
+    {
+      "id": 110,
+      "en"en"Great.",
+      "mean": "Tuyệt.",
+      "note": ""
+    },
+    {
+      "id": 111,
+      "en"en"About 300 kilometers.",
+      "mean": "Khoảng 300 cây số.",
+      "note": ""
+    },
+    {
+      "id": 112,
+      "en"en"Do you know how to cook?",
+      "mean": "Bạn có biết nấu ăn không?",
+      "note": ""
+    },
+    {
+      "id": 113,
+      "en"en"How do I get there?",
+      "mean": "Làm sao tôi tới đó?",
+      "note": ""
+    },
+    {
+      "id": 114,
+      "en"en"How long is the flight?",
+      "mean": "Chuyến bay bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 115,
+      "en"en"One ticket to New York please.",
+      "mean": "Một vé đi New York, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 116,
+      "en"en"That's not fair.",
+      "mean": "Như vậy không công bằng.",
+      "note": ""
+    },
+    {
+      "id": 117,
+      "en"en"Try it.",
+      "mean": "Thử nó.",
+      "note": ""
+    },
+    {
+      "id": 118,
+      "en"en"Do you have enough money?",
+      "mean": "Bạn có đủ tiền không?",
+      "note": ""
+    },
+    {
+      "id": 119,
+      "en"en"Do you know what this says?",
+      "mean": "Bạn có biết cái này nói gì không?",
+      "note": ""
+    },
+    {
+      "id": 120,
+      "en"en"They arrived yesterday.",
+      "mean": "Họ tới ngày hôm qua.",
+      "note": ""
+    },
+    {
+      "id": 121,
+      "en"en"Turn around.",
+      "mean": "Quay lại.",
+      "note": ""
+    },
+    {
+      "id": 122,
+      "en"en"Please write it down.",
+      "mean": "Làm ơn viết ra giấy.",
+      "note": ""
+    },
+    {
+      "id": 123,
+      "en"en"Really?",
+      "mean": "Thực sao?",
+      "note": ""
+    },
+    {
+      "id": 124,
+      "en"en"Sorry to bother you.",
+      "mean": "Xin lỗi làm phiền bạn.",
+      "note": ""
+    },
+    {
+      "id": 125,
+      "en"en"The book is under the table.",
+      "mean": "Quyển sách ở dưới cái bàn.",
+      "note": ""
+    },
+    {
+      "id": 126,
+      "en"en"How do I get to Daniel Street?",
+      "mean": "Làm sao tôi tới đường Daniel?",
+      "note": ""
+    },
+    {
+      "id": 127,
+      "en"en"I'll take that one also.",
+      "mean": "Tôi cũng sẽ mua cái đó.",
+      "note": ""
+    },
+    {
+      "id": 128,
+      "en"en"Thanks for your help.",
+      "mean": "Cám ơn về sự giúp đỡ của bạn.",
+      "note": ""
+    },
+    {
+      "id": 129,
+      "en"en"She's pretty.",
+      "mean": "Cô ta đẹp.",
+      "note": ""
+    },
+    {
+      "id": 130,
+      "en"en"That's too much.",
+      "mean": "Như vậy nhiều quá.",
+      "note": ""
+    },
+    {
+      "id": 131,
+      "en"en"That's enough.",
+      "mean": "Như vậy đủ rồi.",
+      "note": ""
+    },
+    {
+      "id": 132,
+      "en"en"You're very smart.",
+      "mean": "Bạn rất thông minh.",
+      "note": ""
+    },
+    {
+      "id": 133,
+      "en"en"Your things are all here.",
+      "mean": "Tất cả đồ của bạn ở đây.",
+      "note": ""
+    },
+    {
+      "id": 134,
+      "en"en"Have a good trip.",
+      "mean": "Chúc một chuyến đi tốt đẹp.",
+      "note": ""
+    },
+    {
+      "id": 135,
+      "en"en"Hello.",
+      "mean": "Chào.",
+      "note": ""
+    },
+    {
+      "id": 136,
+      "en"en"At what time?",
+      "mean": "Lúc mấy giờ?",
+      "note": ""
+    },
+    {
+      "id": 137,
+      "en"en"Do you want me to come and pick you up?",
+      "mean": "Bạn có muốn tôi tới đón bạn không?",
+      "note": ""
+    },
+    {
+      "id": 138,
+      "en"en"Please fill out this form.",
+      "mean": "Làm ơn điền vào đơn này.",
+      "note": ""
+    },
+    {
+      "id": 139,
+      "en"en"Take it outside.",
+      "mean": "Mang nó ra ngoài.",
+      "note": ""
+    },
+    {
+      "id": 140,
+      "en"en"That looks great.",
+      "mean": "Cái đó trông tuyệt.",
+      "note": ""
+    },
+    {
+      "id": 141,
+      "en"en"They're the same.",
+      "mean": "Chúng giống nhau.",
+      "note": ""
+    },
+    {
+      "id": 142,
+      "en"en"A one way ticket.",
+      "mean": "Vé một chiều.",
+      "note": ""
+    },
+    {
+      "id": 143,
+      "en"en"A round trip ticket.",
+      "mean": "Vé khứ hồi.",
+      "note": ""
+    },
+    {
+      "id": 144,
+      "en"en"That way.",
+      "mean": "Lối đó.",
+      "note": ""
+    },
+    {
+      "id": 145,
+      "en"en"Please call me.",
+      "mean": "Làm ơn gọi cho tôi.",
+      "note": ""
+    },
+    {
+      "id": 146,
+      "en"en"Have you arrived?",
+      "mean": "Bạn tới chưa?",
+      "note": ""
+    },
+    {
+      "id": 147,
+      "en"en"This doesn't work.",
+      "mean": "Cái này không hoạt động.",
+      "note": ""
+    },
+    {
+      "id": 148,
+      "en"en"Certainly!",
+      "mean": "Dĩ nhiên!",
+      "note": ""
+    },
+    {
+      "id": 149,
+      "en"en"Can you repeat that please?",
+      "mean": "Bạn có thể lập lại điều đó được không?",
+      "note": ""
+    },
+    {
+      "id": 150,
+      "en"en"Have you been to Boston?",
+      "mean": "Bạn từng tới Boston chưa?",
+      "note": ""
+    },
+    {
+      "id": 151,
+      "en"en"I'd like to make a phone call.",
+      "mean": "Tôi muốn gọi điện thoại.",
+      "note": ""
+    },
+    {
+      "id": 152,
+      "en"en"Stop!",
+      "mean": "Dừng lại!",
+      "note": ""
+    },
+    {
+      "id": 153,
+      "en"en"Thank you sir.",
+      "mean": "Cám ơn ông.",
+      "note": ""
+    },
+    {
+      "id": 154,
+      "en"en"Of course.",
+      "mean": "Dĩ nhiên.",
+      "note": ""
+    },
+    {
+      "id": 155,
+      "en"en"Take a chance.",
+      "mean": "Thử vận may.",
+      "note": ""
+    },
+    {
+      "id": 156,
+      "en"en"Would you take a message please?",
+      "mean": "Bạn nhận giùm một tin nhắn được không?",
+      "note": ""
+    },
+    {
+      "id": 157,
+      "en"en"Happy Birthday.",
+      "mean": "Chúc mừng sinh nhật.",
+      "note": ""
+    },
+    {
+      "id": 158,
+      "en"en"Please take me to the airport.",
+      "mean": "Làm ơn đưa tôi tới phi trường.",
+      "note": ""
+    },
+    {
+      "id": 159,
+      "en"en"See you tonight.",
+      "mean": "Gặp bạn tối nay.",
+      "note": ""
+    },
+    {
+      "id": 160,
+      "en"en"Thank you very much.",
+      "mean": "Cám ơn rất nhiều.",
+      "note": ""
+    },
+    {
+      "id": 161,
+      "en"en"That's alright.",
+      "mean": "Được thôi.",
+      "note": ""
+    },
+    {
+      "id": 162,
+      "en"en"Good evening sir.",
+      "mean": "Chào ông (buổi tối)",
+      "note": ""
+    },
+    {
+      "id": 163,
+      "en"en"Does this road go to New York?",
+      "mean": "Con đường này có tới New York không?",
+      "note": ""
+    },
+    {
+      "id": 164,
+      "en"en"I'm leaving Tomorrow.",
+      "mean": "Ngày mai tôi sẽ đi.",
+      "note": ""
+    },
+    {
+      "id": 165,
+      "en"en"I'm looking for the post office.",
+      "mean": "Tôi đang tìm bưu điện.",
+      "note": ""
+    },
+    {
+      "id": 166,
+      "en"en"Right there.",
+      "mean": "Ngay đó.",
+      "note": ""
+    },
+    {
+      "id": 167,
+      "en"en"That's it.",
+      "mean": "Như vậy đó.",
+      "note": ""
+    },
+    {
+      "id": 168,
+      "en"en"They'll be right back.",
+      "mean": "Họ sẽ trở lại ngay.",
+      "note": ""
+    },
+    {
+      "id": 169,
+      "en"en"This is very difficult.",
+      "mean": "Cái này rất khó.",
+      "note": ""
+    },
+    {
+      "id": 170,
+      "en"en"We like it very much.",
+      "mean": "Chúng tôi thích nó lắm.",
+      "note": ""
+    },
+    {
+      "id": 171,
+      "en"en"Follow me.",
+      "mean": "Theo tôi.",
+      "note": ""
+    },
+    {
+      "id": 172,
+      "en"en"Go straight ahead.",
+      "mean": "Đi thẳng trước mặt.",
+      "note": ""
+    },
+    {
+      "id": 173,
+      "en"en"Please speak slower.",
+      "mean": "Làm ơn nói chậm hơn.",
+      "note": ""
+    },
+    {
+      "id": 174,
+      "en"en"That's not right.",
+      "mean": "Như vậy không đúng.",
+      "note": ""
+    },
+    {
+      "id": 175,
+      "en"en"Good Luck.",
+      "mean": "Chúc may mắn.",
+      "note": ""
+    },
+    {
+      "id": 176,
+      "en"en"Can I make an appointment for next Wednesday?",
+      "mean": "Tôi có thể xin hẹn vào thứ tư tới không?",
+      "note": ""
+    },
+    {
+      "id": 177,
+      "en"en"Is this pen yours?",
+      "mean": "Cái bút này có phải của bạn không?",
+      "note": ""
+    },
+    {
+      "id": 178,
+      "en"en"I wish I had one.",
+      "mean": "Tôi ước gì có một cái.",
+      "note": ""
+    },
+    {
+      "id": 179,
+      "en"en"Thank you miss.",
+      "mean": "Cám ơn cô.",
+      "note": ""
+    },
+    {
+      "id": 180,
+      "en"en"Good morning.",
+      "mean": "Chào (buổi sáng)",
+      "note": ""
+    },
+    {
+      "id": 181,
+      "en"en"I have a question I want to ask you./ I want to ask you a question.",
+      "mean": "Tôi có câu hỏi muốn hỏi bạn/ Tôi muốn hỏi bạn một câu hỏi.",
+      "note": ""
+    },
+    {
+      "id": 182,
+      "en"en"Right here.",
+      "mean": "Ngay đây.",
+      "note": ""
+    },
+    {
+      "id": 183,
+      "en"en"See you later.",
+      "mean": "Gặp bạn sau.",
+      "note": ""
+    },
+    {
+      "id": 184,
+      "en"en"Tell me.",
+      "mean": "Nói với tôi.",
+      "note": ""
+    },
+    {
+      "id": 185,
+      "en"en"You're very nice.",
+      "mean": "Bạn rất dễ thương.",
+      "note": ""
+    },
+    {
+      "id": 186,
+      "en"en"Are you going to help her?",
+      "mean": "Bạn sẽ giúp cô ta không?",
+      "note": ""
+    },
+    {
+      "id": 187,
+      "en"en"I'm going home in four days.",
+      "mean": "Tôi sẽ đi về nhà trong vòng 4 ngày.",
+      "note": ""
+    },
+    {
+      "id": 188,
+      "en"en"Turn left.",
+      "mean": "Rẽ trái.",
+      "note": ""
+    },
+    {
+      "id": 189,
+      "en"en"Thanks for everything.",
+      "mean": "Cám ơn về mọi việc.",
+      "note": ""
+    },
+    {
+      "id": 190,
+      "en"en"That's right.",
+      "mean": "Đúng rồi.",
+      "note": ""
+    },
+    {
+      "id": 191,
+      "en"en"That's too bad.",
+      "mean": "Như vậy quá tệ.",
+      "note": ""
+    },
+    {
+      "id": 192,
+      "en"en"They're very busy.",
+      "mean": "Họ rất bận.",
+      "note": ""
+    },
+    {
+      "id": 193,
+      "en"en"Nice to meet you",
+      "mean": "Rất vui được gặp bạn.",
+      "note": ""
+    },
+    {
+      "id": 194,
+      "en"en"How do I get to the American Embassy?",
+      "mean": "Làm sao tôi tới tòa đại sứ Mỹ?",
+      "note": ""
+    },
+    {
+      "id": 195,
+      "en"en"How was the movie?",
+      "mean": "Bộ phim thế nào?",
+      "note": ""
+    },
+    {
+      "id": 196,
+      "en"en"When does the bus leave?",
+      "mean": "Khi nào xe buýt khởi hành?",
+      "note": ""
+    },
+    {
+      "id": 197,
+      "en"en"Turn right.",
+      "mean": "Rẽ phải.",
+      "note": ""
+    },
+    {
+      "id": 198,
+      "en"en"When does it arrive?",
+      "mean": "Khi nào nó tới?",
+      "note": ""
+    },
+    {
+      "id": 199,
+      "en"en"When did this happen?",
+      "mean": "Việc này xảy ra khi nào?",
+      "note": ""
+    },
+    {
+      "id": 200,
+      "en"en"What time are you going to the bus station?",
+      "mean": "Mấy giờ bạn sẽ ra trạm xe buýt?",
+      "note": ""
+    },
+    {
+      "id": 201,
+      "en"en"When did you arrive in Boston?",
+      "mean": "Bạn đã tới Boston khi nào?",
+      "note": ""
+    },
+    {
+      "id": 202,
+      "en"en"Where is she from?",
+      "mean": "Cô ta từ đâu tới?",
+      "note": ""
+    },
+    {
+      "id": 203,
+      "en"en"When does he arrive?",
+      "mean": "Khi nào anh ta tới?",
+      "note": ""
+    },
+    {
+      "id": 204,
+      "en"en"When do we leave?",
+      "mean": "Khi nào chúng ta ra đi?",
+      "note": ""
+    },
+    {
+      "id": 205,
+      "en"en"Where can I mail this?",
+      "mean": "Tôi có thể gửi bưu điện cái này ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 206,
+      "en"en"When does the bank open?",
+      "mean": "Khi nào ngân hàng mở cửa?",
+      "note": ""
+    },
+    {
+      "id": 207,
+      "en"en"When do we arrive?",
+      "mean": "Khi nào chúng ta tới nơi?",
+      "note": ""
+    },
+    {
+      "id": 208,
+      "en"en"How much does this cost?",
+      "mean": "Nó giá bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 209,
+      "en"en"How much are these earrings?",
+      "mean": "Đôi bông tai này giá bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 210,
+      "en"en"Where is the bathroom?",
+      "mean": "Phòng tắm ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 211,
+      "en"en"I don't have any money.",
+      "mean": "Tôi không có tiền.",
+      "note": ""
+    },
+    {
+      "id": 212,
+      "en"en"I'll pay for the tickets.",
+      "mean": "Tôi sẽ trả tiền vé.",
+      "note": ""
+    },
+    {
+      "id": 213,
+      "en"en"11 dollars.",
+      "mean": "11 đô.",
+      "note": ""
+    },
+    {
+      "id": 214,
+      "en"en"52 cents.",
+      "mean": "52 xu.",
+      "note": ""
+    },
+    {
+      "id": 215,
+      "en"en"How much money do you make?",
+      "mean": "Bạn kiếm bao nhiêu tiền?",
+      "note": ""
+    },
+    {
+      "id": 216,
+      "en"en"I'd like to eat at 5th street restaurant.",
+      "mean": "Tôi muốn ăn ở nhà hàng trên đường số 5.",
+      "note": ""
+    },
+    {
+      "id": 217,
+      "en"en"A few.",
+      "mean": "Một vài.",
+      "note": ""
+    },
+    {
+      "id": 218,
+      "en"en"Do you have any coffee?",
+      "mean": "Bạn có cà phê không?",
+      "note": ""
+    },
+    {
+      "id": 219,
+      "en"en"I have a reservation.",
+      "mean": "Tôi đã đặt trước.",
+      "note": ""
+    },
+    {
+      "id": 220,
+      "en"en"Do you take credit cards?",
+      "mean": "Bạn có nhận thẻ tín dụng không?",
+      "note": ""
+    },
+    {
+      "id": 221,
+      "en"en"Isn't it?",
+      "mean": "Phải không?",
+      "note": ""
+    },
+    {
+      "id": 222,
+      "en"en"A little.",
+      "mean": "Một ít.",
+      "note": ""
+    },
+    {
+      "id": 223,
+      "en"en"How are you paying?",
+      "mean": "Bạn trả bằng gì?",
+      "note": ""
+    },
+    {
+      "id": 224,
+      "en"en"How many people are there in New York?",
+      "mean": "Ở New York có bao nhiêu người?",
+      "note": ""
+    },
+    {
+      "id": 225,
+      "en"en"I'll pay for dinner.",
+      "mean": "Tôi sẽ trả tiền cho bữa tối.",
+      "note": ""
+    },
+    {
+      "id": 226,
+      "en"en"I need to practice my English.",
+      "mean": "Tôi cần thực hành tiếng Anh.",
+      "note": ""
+    },
+    {
+      "id": 227,
+      "en"en"Will you remind me?",
+      "mean": "Làm ơn nhắc tôi.",
+      "note": ""
+    },
+    {
+      "id": 228,
+      "en"en"Do you have anything cheaper?",
+      "mean": "Bạn có thứ gì rẻ hơn không?",
+      "note": ""
+    },
+    {
+      "id": 229,
+      "en"en"I don't have a girlfriend.",
+      "mean": "Tôi không có bạn gái.",
+      "note": ""
+    },
+    {
+      "id": 230,
+      "en"en"Why not?",
+      "mean": "Tại sao không?",
+      "note": ""
+    },
+    {
+      "id": 231,
+      "en"en"How much is it to go to Miami?",
+      "mean": "Tới Miami giá bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 232,
+      "en"en"How much do I owe you?",
+      "mean": "Tôi nợ bạn bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 233,
+      "en"en"How much does it cost per day?",
+      "mean": "Giá bao nhiêu một ngày?",
+      "note": ""
+    },
+    {
+      "id": 234,
+      "en"en"Call the police.",
+      "mean": "Gọi cảnh sát.",
+      "note": ""
+    },
+    {
+      "id": 235,
+      "en"en"Did your wife like California?",
+      "mean": "Vợ của bạn có thích California không?",
+      "note": ""
+    },
+    {
+      "id": 236,
+      "en"en"I'm 26 years old.",
+      "mean": "Tôi 26 tuổi.",
+      "note": ""
+    },
+    {
+      "id": 237,
+      "en"en"I'll have the same thing.",
+      "mean": "Tôi sẽ có cùng món như vậy.",
+      "note": ""
+    },
+    {
+      "id": 238,
+      "en"en"Is that ok?",
+      "mean": "Như vậy được không?",
+      "note": ""
+    },
+    {
+      "id": 239,
+      "en"en"It's 11:30pm.",
+      "mean": "Bây giờ là 11:30 tối.",
+      "note": ""
+    },
+    {
+      "id": 240,
+      "en"en"Please come in.",
+      "mean": "Làm ơn vào đi.",
+      "note": ""
+    },
+    {
+      "id": 241,
+      "en"en"Sorry, we only accept Cash.",
+      "mean": "Xin lỗi, chúng tôi chỉ nhận tiền mặt.",
+      "note": ""
+    },
+    {
+      "id": 242,
+      "en"en"It's is a quarter past nine.",
+      "mean": "Bây giờ là 9 giờ 15.",
+      "note": ""
+    },
+    {
+      "id": 243,
+      "en"en"Is there any mail for me?",
+      "mean": "Có thư cho tôi không?",
+      "note": ""
+    },
+    {
+      "id": 244,
+      "en"en"Sorry, we don't accept credit cards.",
+      "mean": "Xin lỗi, chúng tôi không nhận thẻ tín dụng.",
+      "note": ""
+    },
+    {
+      "id": 245,
+      "en"en"It's on 7th street.",
+      "mean": "Nó trên đường số 7.",
+      "note": ""
+    },
+    {
+      "id": 246,
+      "en"en"He's in the kitchen.",
+      "mean": "Anh ta ở trong bếp.",
+      "note": ""
+    },
+    {
+      "id": 247,
+      "en"en"I'm ok.",
+      "mean": "Tôi ổn.",
+      "note": ""
+    },
+    {
+      "id": 248,
+      "en"en"Here you are.",
+      "mean": "Đây nè.",
+      "note": ""
+    },
+    {
+      "id": 249,
+      "en"en"Here's my number.",
+      "mean": "Đây là số của tôi.",
+      "note": ""
+    },
+    {
+      "id": 250,
+      "en"en"I'd like to go to the store.",
+      "mean": "Tôi muốn đến cửa hàng.",
+      "note": ""
+    },
+    {
+      "id": 251,
+      "en"en"He studies at Boston University.",
+      "mean": "Anh ta học ở đại học Boston.",
+      "note": ""
+    },
+    {
+      "id": 252,
+      "en"en"How far is it?",
+      "mean": "Nó bao xa?",
+      "note": ""
+    },
+    {
+      "id": 253,
+      "en"en"Can I take a message?",
+      "mean": "Tôi có thể nhận một lời nhắn không?",
+      "note": ""
+    },
+    {
+      "id": 254,
+      "en"en"Maybe.",
+      "mean": "Có lẽ.",
+      "note": ""
+    },
+    {
+      "id": 255,
+      "en"en"Can I see your passport please?",
+      "mean": "Làm ơn cho xem thông hành của bạn.",
+      "note": ""
+    },
+    {
+      "id": 256,
+      "en"en"Do you think it's possible?",
+      "mean": "Bạn có nghĩ điều đó có thể xảy ra không?",
+      "note": ""
+    },
+    {
+      "id": 257,
+      "en"en"I have three children, two girls and one boy.",
+      "mean": "Tôi có ba người con, hai gái một trai.",
+      "note": ""
+    },
+    {
+      "id": 258,
+      "en"en"All day.",
+      "mean": "Suốt ngày.",
+      "note": ""
+    },
+    {
+      "id": 259,
+      "en"en"There are many people here.",
+      "mean": "Ở đây có nhiều người.",
+      "note": ""
+    },
+    {
+      "id": 260,
+      "en"en"Where can I buy tickets?",
+      "mean": "Tôi có thể mua vé ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 261,
+      "en"en"Can you recommend a good restaurant?",
+      "mean": "Bạn có thể đề nghị một nhà hàng ngon không?",
+      "note": ""
+    },
+    {
+      "id": 262,
+      "en"en"Here it is.",
+      "mean": "Nó đây.",
+      "note": ""
+    },
+    {
+      "id": 263,
+      "en"en"I'll be right back.",
+      "mean": "Tôi sẽ trở lại ngay.",
+      "note": ""
+    },
+    {
+      "id": 264,
+      "en"en"Male or female?",
+      "mean": "Nam hay nữ?",
+      "note": ""
+    },
+    {
+      "id": 265,
+      "en"en"They charge 26 dollars per day.",
+      "mean": "Họ tính 26 đô một ngày.",
+      "note": ""
+    },
+    {
+      "id": 266,
+      "en"en"It's ok.",
+      "mean": "Được rồi.",
+      "note": ""
+    },
+    {
+      "id": 267,
+      "en"en"I'll teach you.",
+      "mean": "Tôi sẽ dạy bạn.",
+      "note": ""
+    },
+    {
+      "id": 268,
+      "en"en"I was in the library.",
+      "mean": "Tôi ở trong thư viện.",
+      "note": ""
+    },
+    {
+      "id": 269,
+      "en"en"Near the bank.",
+      "mean": "Gần ngân hàng.",
+      "note": ""
+    },
+    {
+      "id": 270,
+      "en"en"Can I try it on?",
+      "mean": "Tôi có thể mặc thử không?",
+      "note": ""
+    },
+    {
+      "id": 271,
+      "en"en"Did you come with your family?",
+      "mean": "Bạn tới với gia đình hả?",
+      "note": ""
+    },
+    {
+      "id": 272,
+      "en"en"He's not in right now.",
+      "mean": "Ngay lúc này anh ta không có đây.",
+      "note": ""
+    },
+    {
+      "id": 273,
+      "en"en"I'd like to buy a bottle of water, please.",
+      "mean": "Tôi muốn mua một chai nước, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 274,
+      "en"en"I'll call back later.",
+      "mean": "Tôi sẽ gọi lại sau.",
+      "note": ""
+    },
+    {
+      "id": 275,
+      "en"en"How far is it to Chicago?",
+      "mean": "Tới Chicago bao xa?",
+      "note": ""
+    },
+    {
+      "id": 276,
+      "en"en"It's less than 5 dollars.",
+      "mean": "Nó ít hơn 5 đô.",
+      "note": ""
+    },
+    {
+      "id": 277,
+      "en"en"It's more than 5 dollars.",
+      "mean": "Nó hơn 5 đô.",
+      "note": ""
+    },
+    {
+      "id": 278,
+      "en"en"I was going to the library.",
+      "mean": "Tôi sắp đi tới thư viện.",
+      "note": ""
+    },
+    {
+      "id": 279,
+      "en"en"Hi, is Mrs. Smith there, please?",
+      "mean": "Chào, có phải bà Smith ở đằng kia không?",
+      "note": ""
+    },
+    {
+      "id": 280,
+      "en"en"I'd like to rent a car.",
+      "mean": "Tôi muốn thuê xe hơi.",
+      "note": ""
+    },
+    {
+      "id": 281,
+      "en"en"I'd like to speak to Mr. Smith please.",
+      "mean": "Tôi muốn nói chuyện với ông Smith, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 282,
+      "en"en"Is there an English speaking guide?",
+      "mean": "Có hướng dẫn viên nói tiếng Anh không?",
+      "note": ""
+    },
+    {
+      "id": 283,
+      "en"en"Please take off your shoes.",
+      "mean": "Làm ơn cởi giày ra.",
+      "note": ""
+    },
+    {
+      "id": 284,
+      "en"en"It's delicious!",
+      "mean": "Món này ngon!",
+      "note": ""
+    },
+    {
+      "id": 285,
+      "en"en"That restaurant is not expensive.",
+      "mean": "Nhà hàng đó không đắt.",
+      "note": ""
+    },
+    {
+      "id": 286,
+      "en"en"It's really hot.",
+      "mean": "Thực là nóng.",
+      "note": ""
+    },
+    {
+      "id": 287,
+      "en"en"Let's go.",
+      "mean": "Chúng ta đi.",
+      "note": ""
+    },
+    {
+      "id": 288,
+      "en"en"My house is close to the bank.",
+      "mean": "Nhà tôi gần ngân hàng.",
+      "note": ""
+    },
+    {
+      "id": 289,
+      "en"en"My cell phone doesn't work.",
+      "mean": "Điện thoại di động của tôi bị hỏng.",
+      "note": ""
+    },
+    {
+      "id": 290,
+      "en"en"11 days ago.",
+      "mean": "Cách đây 11 ngày.",
+      "note": ""
+    },
+    {
+      "id": 291,
+      "en"en"Are they coming this evening?",
+      "mean": "Tối nay họ có tới không?",
+      "note": ""
+    },
+    {
+      "id": 292,
+      "en"en"Are you comfortable?",
+      "mean": "Bạn có thoải mái không?",
+      "note": ""
+    },
+    {
+      "id": 293,
+      "en"en"I'd like a single room.",
+      "mean": "Tôi muốn một phòng đơn.",
+      "note": ""
+    },
+    {
+      "id": 294,
+      "en"en"What's the exchange rate for dollars?",
+      "mean": "Hối suất đô la là bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 295,
+      "en"en"Be quiet.",
+      "mean": "Hãy yên lặng.",
+      "note": ""
+    },
+    {
+      "id": 296,
+      "en"en"I'd like some water too, please.",
+      "mean": "Tôi cũng muốn một ít nước, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 297,
+      "en"en"I'd like to send a fax.",
+      "mean": "Tôi muốn gửi phắc.",
+      "note": ""
+    },
+    {
+      "id": 298,
+      "en"en"I'd like to send this to America.",
+      "mean": "Tôi muốn gửi cái này đi Mỹ.",
+      "note": ""
+    },
+    {
+      "id": 299,
+      "en"en"I need some tissues.",
+      "mean": "Tôi cần một ít khăn giấy.",
+      "note": ""
+    },
+    {
+      "id": 300,
+      "en"en"I want to give you a gift.",
+      "mean": "Tôi muốn tặng bạn một món quà.",
+      "note": ""
+    },
+    {
+      "id": 301,
+      "en"en"A long time ago.",
+      "mean": "Cách nay đã lâu.",
+      "note": ""
+    },
+    {
+      "id": 302,
+      "en"en"Are your children with you?",
+      "mean": "Con của bạn có đi với bạn không?",
+      "note": ""
+    },
+    {
+      "id": 303,
+      "en"en"It's near the Supermarket.",
+      "mean": "Nó gần siêu thị.",
+      "note": ""
+    },
+    {
+      "id": 304,
+      "en"en"I'd like to buy something.",
+      "mean": "Tôi muốn mua một món đồ.",
+      "note": ""
+    },
+    {
+      "id": 305,
+      "en"en"My cell phone doesn't have good reception.",
+      "mean": "Điện thoại di động của tôi không nhận tín hiệu tốt.",
+      "note": ""
+    },
+    {
+      "id": 306,
+      "en"en"2 hours.",
+      "mean": "2 tiếng.",
+      "note": ""
+    },
+    {
+      "id": 307,
+      "en"en"How many miles is it to Pennsylvania?",
+      "mean": "Tới Pennsylvania bao nhiêu dặm?",
+      "note": ""
+    },
+    {
+      "id": 308,
+      "en"en"That's too expensive.",
+      "mean": "Như vậy đắt quá.",
+      "note": ""
+    },
+    {
+      "id": 309,
+      "en"en"It's suppose to rain tomorrow.",
+      "mean": "Trời có thể mưa ngày mai.",
+      "note": ""
+    },
+    {
+      "id": 310,
+      "en"en"More than 200 miles.",
+      "mean": "Hơn 200 dặm.",
+      "note": ""
+    },
+    {
+      "id": 311,
+      "en"en"What's the phone number?",
+      "mean": "Số điện thoại là gì?",
+      "note": ""
+    },
+    {
+      "id": 312,
+      "en"en"Where would you like to meet?",
+      "mean": "Bạn muốn gặp nhau ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 313,
+      "en"en"Which one is better?",
+      "mean": "Cái nào tốt hơn?",
+      "note": ""
+    },
+    {
+      "id": 314,
+      "en"en"Across from the post office.",
+      "mean": "Đối diện bưu điện.",
+      "note": ""
+    },
+    {
+      "id": 315,
+      "en"en"It's half past 11.",
+      "mean": "Bây giờ là 11 giờ rưỡi.",
+      "note": ""
+    },
+    {
+      "id": 316,
+      "en"en"it's not suppose to rain today.",
+      "mean": "Hôm nay có lẽ không mưa.",
+      "note": ""
+    },
+    {
+      "id": 317,
+      "en"en"I'll call you on Friday.",
+      "mean": "Tôi sẽ gọi bạn vào thứ sáu.",
+      "note": ""
+    },
+    {
+      "id": 318,
+      "en"en"At 3 o'clock.",
+      "mean": "Lúc 3 giờ.",
+      "note": ""
+    },
+    {
+      "id": 319,
+      "en"en"I like to watch TV.",
+      "mean": "Tôi thích xem tivi.",
+      "note": ""
+    },
+    {
+      "id": 320,
+      "en"en"Can we sit over there?",
+      "mean": "Chúng tôi có thể ngồi ở đằng kia không?",
+      "note": ""
+    },
+    {
+      "id": 321,
+      "en"en"As soon as possible.",
+      "mean": "Càng sớm càng tốt.",
+      "note": ""
+    },
+    {
+      "id": 322,
+      "en"en"At 7 o'clock in the morning.",
+      "mean": "Lúc 7 giờ sáng.",
+      "note": ""
+    },
+    {
+      "id": 323,
+      "en"en"I don't have enough money.",
+      "mean": "Tôi không có đủ tiền.",
+      "note": ""
+    },
+    {
+      "id": 324,
+      "en"en"Every week.",
+      "mean": "Hàng tuần.",
+      "note": ""
+    },
+    {
+      "id": 325,
+      "en"en"How long will it take?",
+      "mean": "Sẽ mất bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 326,
+      "en"en"Where is the airport?",
+      "mean": "Phi trường ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 327,
+      "en"en"How does it taste?",
+      "mean": "Nó có vị ra sao?",
+      "note": ""
+    },
+    {
+      "id": 328,
+      "en"en"I agree.",
+      "mean": "Tôi đồng ý.",
+      "note": ""
+    },
+    {
+      "id": 329,
+      "en"en"I'm here on business.",
+      "mean": "Tôi ở đây để làm ăn.",
+      "note": ""
+    },
+    {
+      "id": 330,
+      "en"en"Can I bring my friend?",
+      "mean": "Tôi có thể mang theo bạn không?",
+      "note": ""
+    },
+    {
+      "id": 331,
+      "en"en"Expiration date.",
+      "mean": "Ngày hết hạn.",
+      "note": ""
+    },
+    {
+      "id": 332,
+      "en"en"I'd like a room with two beds please.",
+      "mean": "Tôi muốn một phòng với 2 giường, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 333,
+      "en"en"Do you have a swimming pool?",
+      "mean": "Bạn có hồ bơi không?",
+      "note": ""
+    },
+    {
+      "id": 334,
+      "en"en"Do you think you'll be back by 11:30?",
+      "mean": "Bạn có nghĩ là bạn sẽ trở lại lúc 11:30 không?",
+      "note": ""
+    },
+    {
+      "id": 335,
+      "en"en"What time is check out?",
+      "mean": "Mấy giờ trả phòng?",
+      "note": ""
+    },
+    {
+      "id": 336,
+      "en"en"Can it be cheaper?",
+      "mean": "Có thể rẻ hơn không?",
+      "note": ""
+    },
+    {
+      "id": 337,
+      "en"en"Have you ever had Potato soup?",
+      "mean": "Bạn đã từng ăn xúp khoai chưa?",
+      "note": ""
+    },
+    {
+      "id": 338,
+      "en"en"At 3 o'clock in the afternoon.",
+      "mean": "Lúc 3 giờ chiều.",
+      "note": ""
+    },
+    {
+      "id": 339,
+      "en"en"How long will you be staying?",
+      "mean": "Bạn sẽ ở bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 340,
+      "en"en"I'd like a non-smoking room.",
+      "mean": "Tôi muốn một phòng không hút thuốc.",
+      "note": ""
+    },
+    {
+      "id": 341,
+      "en"en"Do you know how much it costs?",
+      "mean": "Bạn có biết nó giá bao nhiêu không?",
+      "note": ""
+    },
+    {
+      "id": 342,
+      "en"en"Here is your salad.",
+      "mean": "Rau của bạn đây.",
+      "note": ""
+    },
+    {
+      "id": 343,
+      "en"en"He likes juice but he doesn't like milk",
+      "mean": "Anh ta thích nước trái cây nhưng anh ta không thích sữa.",
+      "note": ""
+    },
+    {
+      "id": 344,
+      "en"en"I'm from America.",
+      "mean": "Tôi từ Mỹ tới.",
+      "note": ""
+    },
+    {
+      "id": 345,
+      "en"en"At 7 o'clock at night. (evening)?",
+      "mean": "Lúc 7 giờ tối.",
+      "note": ""
+    },
+    {
+      "id": 346,
+      "en"en"Do you have this in size 11?",
+      "mean": "Bạn có món này cỡ 11 không?",
+      "note": ""
+    },
+    {
+      "id": 347,
+      "en"en"Everyday I get up at 6AM.",
+      "mean": "Hàng ngày tôi dạy lúc 6 giờ sáng.",
+      "note": ""
+    },
+    {
+      "id": 348,
+      "en"en"How much will it cost?",
+      "mean": "Sẽ tốn bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 349,
+      "en"en"Is there a store near here?",
+      "mean": "Có cửa hàng gần đây không?",
+      "note": ""
+    },
+    {
+      "id": 350,
+      "en"en"Sorry, we don't have any vacancies.",
+      "mean": "Xin lỗi, chúng tôi không còn phòng trống.",
+      "note": ""
+    },
+    {
+      "id": 351,
+      "en"en"Take me to the Marriott Hotel.",
+      "mean": "Đưa tôi tới khách sạn Marriott.",
+      "note": ""
+    },
+    {
+      "id": 352,
+      "en"en"Are you here alone?",
+      "mean": "Bạn ở đây một mình hả?",
+      "note": ""
+    },
+    {
+      "id": 353,
+      "en"en"I like it.",
+      "mean": "Tôi thích nó.",
+      "note": ""
+    },
+    {
+      "id": 354,
+      "en"en"I'll have a glass of water please.",
+      "mean": "Tôi sẽ uống một ly nước, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 355,
+      "en"en"His family is coming tomorrow.",
+      "mean": "Gia đình anh ta sẽ tới vào ngày mai.",
+      "note": ""
+    },
+    {
+      "id": 356,
+      "en"en"How about Saturday?",
+      "mean": "Còn thứ bảy thì sao?",
+      "note": ""
+    },
+    {
+      "id": 357,
+      "en"en"How long are you going to stay?",
+      "mean": "Bạn sẽ ở bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 358,
+      "en"en"Do you have any money?",
+      "mean": "Bạn có tiền không?",
+      "note": ""
+    },
+    {
+      "id": 359,
+      "en"en"Where's the mail box?",
+      "mean": "Hộp thư ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 360,
+      "en"en"Can you hold this for me?",
+      "mean": "Bạn có thể giữ giùm tôi cái này được không?",
+      "note": ""
+    },
+    {
+      "id": 361,
+      "en"en"Have you eaten at that restaurant?",
+      "mean": "Bạn đã ăn ở nhà hàng này chưa?",
+      "note": ""
+    },
+    {
+      "id": 362,
+      "en"en"I'd like a table near the window.",
+      "mean": "Tôi muốn một phòng gần cửa sổ.",
+      "note": ""
+    },
+    {
+      "id": 363,
+      "en"en"I haven't been there.",
+      "mean": "Tôi đã không ở đó.",
+      "note": ""
+    },
+    {
+      "id": 364,
+      "en"en"At what time did it happen?",
+      "mean": "Việc đó xảy ra lúc mấy giờ?",
+      "note": ""
+    },
+    {
+      "id": 365,
+      "en"en"Are you busy?",
+      "mean": "Bạn có bận không?",
+      "note": ""
+    },
+    {
+      "id": 366,
+      "en"en"I'd like a room.",
+      "mean": "Tôi muốn một phòng.",
+      "note": ""
+    },
+    {
+      "id": 367,
+      "en"en"At 5th street.",
+      "mean": "Tại đường số 5.",
+      "note": ""
+    },
+    {
+      "id": 368,
+      "en"en"Can I help you?",
+      "mean": "Tôi có thể giúp gì bạn?",
+      "note": ""
+    },
+    {
+      "id": 369,
+      "en"en"Can I have a receipt please?",
+      "mean": "Làm ơn cho tôi hóa đơn.",
+      "note": ""
+    },
+    {
+      "id": 370,
+      "en"en"He'll be back in 20 minutes.",
+      "mean": "Anh ta sẽ trở lại trong vòng 20 phút nữa.",
+      "note": ""
+    },
+    {
+      "id": 371,
+      "en"en"Have you been waiting long?",
+      "mean": "Bạn đợi đã lâu chưa?",
+      "note": ""
+    },
+    {
+      "id": 372,
+      "en"en"I'd like a map of the city.",
+      "mean": "Tôi muốn một tấm bản đồ của thành phố.",
+      "note": ""
+    },
+    {
+      "id": 373,
+      "en"en"I need a doctor.",
+      "mean": "Tôi cần một bác sĩ.",
+      "note": ""
+    },
+    {
+      "id": 374,
+      "en"en"Do you have any children?",
+      "mean": "Bạn có con không?",
+      "note": ""
+    },
+    {
+      "id": 375,
+      "en"en"I'll have a cup of tea please.",
+      "mean": "Tôi sẽ uống một tách trà, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 376,
+      "en"en"I only have 5 dollars.",
+      "mean": "Tôi chỉ có 5 đô la.",
+      "note": ""
+    },
+    {
+      "id": 377,
+      "en"en"How long are you going to stay in California?",
+      "mean": "Bạn sẽ ở California bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 378,
+      "en"en"Can we have some more bread please?",
+      "mean": "Làm ơn cho thêm ít bánh mì.",
+      "note": ""
+    },
+    {
+      "id": 379,
+      "en"en"I haven't finished eating.",
+      "mean": "Tôi chưa ăn xong.",
+      "note": ""
+    },
+    {
+      "id": 380,
+      "en"en"I'm going to bed.",
+      "mean": "Tôi sẽ đi ngủ.",
+      "note": ""
+    },
+    {
+      "id": 381,
+      "en"en"Have you eaten yet?",
+      "mean": "Bạn đã ăn chưa?",
+      "note": ""
+    },
+    {
+      "id": 382,
+      "en"en"For how many nights?",
+      "mean": "Cho mấy đêm?",
+      "note": ""
+    },
+    {
+      "id": 383,
+      "en"en"I'd like to call the United States.",
+      "mean": "Tôi muốn gọi sang Mỹ.",
+      "note": ""
+    },
+    {
+      "id": 384,
+      "en"en"I'll give you a call.",
+      "mean": "Tôi sẽ gọi điện cho bạn.",
+      "note": ""
+    },
+    {
+      "id": 385,
+      "en"en"Is there a nightclub in town?",
+      "mean": "Có hộp đêm trong thị xã không?",
+      "note": ""
+    },
+    {
+      "id": 386,
+      "en"en"How much altogether?",
+      "mean": "Tất cả bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 387,
+      "en"en"What's the charge per night? (Hotel)",
+      "mean": "Giá bao nhiêu một đêm? (Khách sạn)",
+      "note": ""
+    },
+    {
+      "id": 388,
+      "en"en"How many people? (restaurant)",
+      "mean": "Bao nhiêu người? (nhà hàng)",
+      "note": ""
+    },
+    {
+      "id": 389,
+      "en"en"Is there a restaurant in the hotel?",
+      "mean": "Trong khách sạn có nhà hàng không?",
+      "note": ""
+    },
+    {
+      "id": 390,
+      "en"en"Can we have a menu please.",
+      "mean": "Làm ơn đưa xem thực đơn.",
+      "note": ""
+    },
+    {
+      "id": 391,
+      "en"en"Here's your order.",
+      "mean": "Đây là món hàng bạn đặt.",
+      "note": ""
+    },
+    {
+      "id": 392,
+      "en"en"I'm sorry.",
+      "mean": "Tôi rất tiếc.",
+      "note": ""
+    },
+    {
+      "id": 393,
+      "en"en"Are you American?",
+      "mean": "Bạn có phải là người Mỹ không?",
+      "note": ""
+    },
+    {
+      "id": 394,
+      "en"en"Are you hungry?",
+      "mean": "Bạn có đói không?",
+      "note": ""
+    },
+    {
+      "id": 395,
+      "en"en"Did it snow yesterday?",
+      "mean": "Trời có tuyết hôm qua không?",
+      "note": ""
+    },
+    {
+      "id": 396,
+      "en"en"Did you take your medicine?",
+      "mean": "Bạn đã uống thuốc chưa?",
+      "note": ""
+    },
+    {
+      "id": 397,
+      "en"en"Are you sure?",
+      "mean": "Bạn chắc không?",
+      "note": ""
+    },
+    {
+      "id": 398,
+      "en"en"Are you free tonight?",
+      "mean": "Tối nay bạn rảnh không?",
+      "note": ""
+    },
+    {
+      "id": 399,
+      "en"en"Cheers!",
+      "mean": "Chúc sức khỏe!",
+      "note": ""
+    },
+    {
+      "id": 400,
+      "en"en"Did you get my email?",
+      "mean": "Bạn có nhận được email của tôi không?",
+      "note": ""
+    },
+    {
+      "id": 401,
+      "en"en"Are you coming this evening?",
+      "mean": "Tối nay bạn tới không?",
+      "note": ""
+    },
+    {
+      "id": 402,
+      "en"en"Are you working Tomorrow?",
+      "mean": "Ngày mai bạn có làm việc không?",
+      "note": ""
+    },
+    {
+      "id": 403,
+      "en"en"Are you going to take a plane or train?",
+      "mean": "Bạn sẽ đi máy bay hay tàu hỏa?",
+      "note": ""
+    },
+    {
+      "id": 404,
+      "en"en"Business is good.",
+      "mean": "Việc làm ăn tốt.",
+      "note": ""
+    },
+    {
+      "id": 405,
+      "en"en"Do you feel better?",
+      "mean": "Bạn có cảm thấy khỏe hơn không?",
+      "note": ""
+    },
+    {
+      "id": 406,
+      "en"en"Do you like it here?",
+      "mean": "Bạn có thích nơi đây không?",
+      "note": ""
+    },
+    {
+      "id": 407,
+      "en"en"Are there any concerts?",
+      "mean": "Có buổi hòa nhạc nào không?",
+      "note": ""
+    },
+    {
+      "id": 408,
+      "en"en"Do you sell medicine? (store)",
+      "mean": "Bạn có bán dược phẩm không? (cửa hàng)",
+      "note": ""
+    },
+    {
+      "id": 409,
+      "en"en"Have they met her yet?",
+      "mean": "Họ gặp cô ta chưa?",
+      "note": ""
+    },
+    {
+      "id": 410,
+      "en"en"Excuse me.",
+      "mean": "Xin lỗi.",
+      "note": ""
+    },
+    {
+      "id": 411,
+      "en"en"You're smarter than him.",
+      "mean": "Bạn thông minh hơn anh ta.",
+      "note": ""
+    },
+    {
+      "id": 412,
+      "en"en"You speak English very well.",
+      "mean": "Bạn nói tiếng Anh rất giỏi.",
+      "note": ""
+    },
+    {
+      "id": 413,
+      "en"en"He said you like to watch movies.",
+      "mean": "Anh ta nói bạn thích xem phim.",
+      "note": ""
+    },
+    {
+      "id": 414,
+      "en"en"Do you have another one?",
+      "mean": "Bạn có cái khác không?",
+      "note": ""
+    },
+    {
+      "id": 415,
+      "en"en"Do you know where there's a store that sells towels?",
+      "mean": "Bạn có biết ở đâu có cửa hàng bán khăn tắm không?",
+      "note": ""
+    },
+    {
+      "id": 416,
+      "en"en"Do you go to Florida often?",
+      "mean": "Bạn có thường đi Florida không?",
+      "note": ""
+    },
+    {
+      "id": 417,
+      "en"en"Do you study English?",
+      "mean": "Bạn có học tiếng Anh không?",
+      "note": ""
+    },
+    {
+      "id": 418,
+      "en"en"Your daughter.",
+      "mean": "Con gái của bạn.",
+      "note": ""
+    },
+    {
+      "id": 419,
+      "en"en"How tall are you?",
+      "mean": "Bạn cao bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 420,
+      "en"en"Do you want to come with me?",
+      "mean": "Bạn có muốn đi với tôi không?",
+      "note": ""
+    },
+    {
+      "id": 421,
+      "en"en"Give me a call.",
+      "mean": "Gọi điện cho tôi.",
+      "note": ""
+    },
+    {
+      "id": 422,
+      "en"en"Do you need anything?",
+      "mean": "Bạn có cần gì không?",
+      "note": ""
+    },
+    {
+      "id": 423,
+      "en"en"Do you want to go with me?",
+      "mean": "Bạn có muốn đi với tôi không?",
+      "note": ""
+    },
+    {
+      "id": 424,
+      "en"en"Has your brother been to California?",
+      "mean": "Anh (em trai) của bạn đã từng tới California chưa?",
+      "note": ""
+    },
+    {
+      "id": 425,
+      "en"en"How long have you been here?",
+      "mean": "Bạn đã ở đây bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 426,
+      "en"en"Do you like the book?",
+      "mean": "Bạn có thích quyển sách này không?",
+      "note": ""
+    },
+    {
+      "id": 427,
+      "en"en"Your children are very well behaved.",
+      "mean": "Các con của bạn rất ngoan.",
+      "note": ""
+    },
+    {
+      "id": 428,
+      "en"en"Have you seen this movie?",
+      "mean": "Bạn đã xem phim này chưa?",
+      "note": ""
+    },
+    {
+      "id": 429,
+      "en"en"Have you done this before?",
+      "mean": "Bạn đã làm việc này trước đây chưa?",
+      "note": ""
+    },
+    {
+      "id": 430,
+      "en"en"Do you play any sports?",
+      "mean": "Bạn có chơi môn thể thao nào không?",
+      "note": ""
+    },
+    {
+      "id": 431,
+      "en"en"Would you like to buy this?",
+      "mean": "Bạn muốn mua cái này không?",
+      "note": ""
+    },
+    {
+      "id": 432,
+      "en"en"Do you want to go to the movies?",
+      "mean": "Bạn có muốn đi xem phim không?",
+      "note": ""
+    },
+    {
+      "id": 433,
+      "en"en"Can I have a glass of water please?",
+      "mean": "Làm ơn cho một ly nước.",
+      "note": ""
+    },
+    {
+      "id": 434,
+      "en"en"Do you know where she is?",
+      "mean": "Bạn có biết cô ấy ở đâu không?",
+      "note": ""
+    },
+    {
+      "id": 435,
+      "en"en"How much is this?",
+      "mean": "Cái này giá bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 436,
+      "en"en"Would you like to rent a movie?",
+      "mean": "Bạn muốn thuê phim không?",
+      "note": ""
+    },
+    {
+      "id": 437,
+      "en"en"Is there a movie theater nearby?",
+      "mean": "Có rạp chiếu phim gần đây không?",
+      "note": ""
+    },
+    {
+      "id": 438,
+      "en"en"I'd like to go home.",
+      "mean": "Tôi muốn về nhà.",
+      "note": ""
+    },
+    {
+      "id": 439,
+      "en"en"Do you have any vacancies?",
+      "mean": "Bạn có chỗ trống không?",
+      "note": ""
+    },
+    {
+      "id": 440,
+      "en"en"What time does the movie start?",
+      "mean": "Mấy giờ phim bắt đầu?",
+      "note": ""
+    },
+    {
+      "id": 441,
+      "en"en"Who was your teacher?",
+      "mean": "Ai đã là thày giáo của bạn?",
+      "note": ""
+    },
+    {
+      "id": 442,
+      "en"en"Do you know her?",
+      "mean": "Bạn có biết cô ta không?",
+      "note": ""
+    },
+    {
+      "id": 443,
+      "en"en"What's your favorite food?",
+      "mean": "Thức ăn ưa thích của bạn là gì?",
+      "note": ""
+    },
+    {
+      "id": 444,
+      "en"en"Fill it up, please. (gas station)",
+      "mean": "Làm ơn đổ đầy. (cây xăng)",
+      "note": ""
+    },
+    {
+      "id": 445,
+      "en"en"How much is that?",
+      "mean": "Cái đó giá bao nhiêu?",
+      "note": ""
+    },
+    {
+      "id": 446,
+      "en"en"What do people usually do in the summer in Los Angeles?",
+      "mean": "Người ta thường làm gì vào mùa hè ở Los Angeles?",
+      "note": ""
+    },
+    {
+      "id": 447,
+      "en"en"Is the bank far?",
+      "mean": "Ngân hàng có xa không?",
+      "note": ""
+    },
+    {
+      "id": 448,
+      "en"en"Can I use your phone?",
+      "mean": "Tôi có thể sử dụng điện thoại của bạn không?",
+      "note": ""
+    },
+    {
+      "id": 449,
+      "en"en"I'd like the number for the Hilton Hotel please.",
+      "mean": "Tôi muốn số điện thoại của khách sạn Hilton, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 450,
+      "en"en"Would you like to have dinner with me?",
+      "mean": "Bạn muốn ăn tối với tôi không?",
+      "note": ""
+    },
+    {
+      "id": 451,
+      "en"en"He needs some new clothes.",
+      "mean": "Anh ta cần một ít quần áo mới.",
+      "note": ""
+    },
+    {
+      "id": 452,
+      "en"en"What kind of music do you like?",
+      "mean": "Bạn thích loại nhạc gì?",
+      "note": ""
+    },
+    {
+      "id": 453,
+      "en"en"Do you have the number for a taxi?",
+      "mean": "Bạn có số điện thoại để gọi tắc xi không?",
+      "note": ""
+    },
+    {
+      "id": 454,
+      "en"en"Do you play basketball?",
+      "mean": "Bạn có chơi bóng rổ không?",
+      "note": ""
+    },
+    {
+      "id": 455,
+      "en"en"I believe you.",
+      "mean": "Tôi tin bạn.",
+      "note": ""
+    },
+    {
+      "id": 456,
+      "en"en"I'd like to buy a phone card please.",
+      "mean": "Tôi muốn mua một tấm thẻ điện thoại, xin vui lòng.",
+      "note": ""
+    },
+    {
+      "id": 457,
+      "en"en"If you like it I can buy more.",
+      "mean": "Nếu bạn thích nó tôi có thể mua thêm.",
+      "note": ""
+    },
+    {
+      "id": 458,
+      "en"en"I'd like to go shopping.",
+      "mean": "Tôi muốn đi mua sắm.",
+      "note": ""
+    },
+    {
+      "id": 459,
+      "en"en"I'm just kidding.",
+      "mean": "Tôi chỉ đùa thôi.",
+      "note": ""
+    },
+    {
+      "id": 460,
+      "en"en"I'm a beginner.",
+      "mean": "Tôi mới bắt đầu.",
+      "note": ""
+    },
+    {
+      "id": 461,
+      "en"en"I'm single.",
+      "mean": "Tôi độc thân.",
+      "note": ""
+    },
+    {
+      "id": 462,
+      "en"en"I speak two languages.",
+      "mean": "Tôi nói 2 thứ tiếng.",
+      "note": ""
+    },
+    {
+      "id": 463,
+      "en"en"I thought he said something else.",
+      "mean": "Tôi nghĩ anh ta đã nói một điều gì khác.",
+      "note": ""
+    },
+    {
+      "id": 464,
+      "en"en"I'm full.",
+      "mean": "Tôi no rồi.",
+      "note": ""
+    },
+    {
+      "id": 465,
+      "en"en"What time does the store open?",
+      "mean": "Mấy giờ cửa hàng mở cửa?",
+      "note": ""
+    },
+    {
+      "id": 466,
+      "en"en"The books are expensive.",
+      "mean": "Những quyển sách đắt tiền.",
+      "note": ""
+    },
+    {
+      "id": 467,
+      "en"en"Try it on.",
+      "mean": "Mặc thử nó.",
+      "note": ""
+    },
+    {
+      "id": 468,
+      "en"en"What do you want to buy?",
+      "mean": "Bạn muốn mua gì?",
+      "note": ""
+    },
+    {
+      "id": 469,
+      "en"en"When does the plane arrive?",
+      "mean": "Khi nào máy bay tới?",
+      "note": ""
+    },
+    {
+      "id": 470,
+      "en"en"It's not too far.",
+      "mean": "Nó không xa lắm.",
+      "note": ""
+    },
+    {
+      "id": 471,
+      "en"en"Sorry, we don't have any.",
+      "mean": "Xin lỗi, chúng tôi không có cái nào.",
+      "note": ""
+    },
+    {
+      "id": 472,
+      "en"en"Where are you?",
+      "mean": "Bạn ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 473,
+      "en"en"I usually drink coffee at breakfast.",
+      "mean": "Tôi thường uống cà phê vào bữa điểm tâm.",
+      "note": ""
+    },
+    {
+      "id": 474,
+      "en"en"What size?",
+      "mean": "Cỡ mấy?",
+      "note": ""
+    },
+    {
+      "id": 475,
+      "en"en"Can you throw that away for me?",
+      "mean": "Bạn có thể quẳng cái đó đi giúp tôi được không?",
+      "note": ""
+    },
+    {
+      "id": 476,
+      "en"en"Can you help me?",
+      "mean": "Bạn có thể giúp tôi không?",
+      "note": ""
+    },
+    {
+      "id": 477,
+      "en"en"Can you do me a favor?",
+      "mean": "Bạn có thể giúp tôi một việc được không?",
+      "note": ""
+    },
+    {
+      "id": 478,
+      "en"en"Do you smoke?",
+      "mean": "Bạn có hút thuốc không?",
+      "note": ""
+    },
+    {
+      "id": 479,
+      "en"en"Do you speak English?",
+      "mean": "Bạn có nói tiếng Anh không?",
+      "note": ""
+    },
+    {
+      "id": 480,
+      "en"en"Does anyone here speak English?",
+      "mean": "Có ai ở đây nói tiếng Anh không?",
+      "note": ""
+    },
+    {
+      "id": 481,
+      "en"en"Do you have a pencil?",
+      "mean": "Bạn có bút chì không?",
+      "note": ""
+    },
+    {
+      "id": 482,
+      "en"en"Forget it.",
+      "mean": "Quên đi.",
+      "note": ""
+    },
+    {
+      "id": 483,
+      "en"en"Can you please say that again?",
+      "mean": "Bạn có thể nói lại điều đó được không?",
+      "note": ""
+    },
+    {
+      "id": 484,
+      "en"en"Do you believe that?",
+      "mean": "Bạn có tin điều đó không?",
+      "note": ""
+    },
+    {
+      "id": 485,
+      "en"en"Am I pronouncing it correctly?",
+      "mean": "Tôi phát âm nó đúng không?",
+      "note": ""
+    },
+    {
+      "id": 486,
+      "en"en"Would you like something to eat?",
+      "mean": "Bạn muốn ăn thứ gì không?",
+      "note": ""
+    },
+    {
+      "id": 487,
+      "en"en"Don't do that.",
+      "mean": "Đừng làm điều đó.",
+      "note": ""
+    },
+    {
+      "id": 488,
+      "en"en"Can you show me?",
+      "mean": "Bạn có thể chỉ cho tôi không?",
+      "note": ""
+    },
+    {
+      "id": 489,
+      "en"en"Excuse me, what did you say?",
+      "mean": "Xin lỗi, bạn nói gì?",
+      "note": ""
+    },
+    {
+      "id": 490,
+      "en"en"How do you pronounce that?",
+      "mean": "Bạn phát âm chữ đó như thế nào?",
+      "note": ""
+    },
+    {
+      "id": 491,
+      "en"en"I can't hear you clearly.",
+      "mean": "Tôi nghe bạn không rõ.",
+      "note": ""
+    },
+    {
+      "id": 492,
+      "en"en"I don't understand what your saying.",
+      "mean": "Tôi không hiểu bạn nói gì.",
+      "note": ""
+    },
+    {
+      "id": 493,
+      "en"en"There has been a car accident.",
+      "mean": "Đã có một tai nạn xe hơi.",
+      "note": ""
+    },
+    {
+      "id": 494,
+      "en"en"Is there air conditioning in the room?",
+      "mean": "Trong phòng có điều hòa không khí không?",
+      "note": ""
+    },
+    {
+      "id": 495,
+      "en"en"Did you send me flowers?",
+      "mean": "Bạn đã gửi hoa cho tôi hả?",
+      "note": ""
+    },
+    {
+      "id": 496,
+      "en"en"I'm a teacher.",
+      "mean": "Tôi là giáo viên.",
+      "note": ""
+    },
+    {
+      "id": 497,
+      "en"en"Take this medicine.",
+      "mean": "Dùng thuốc này.",
+      "note": ""
+    },
+    {
+      "id": 498,
+      "en"en"Can I borrow some money?",
+      "mean": "Tôi có thể mượn một ít tiền không?",
+      "note": ""
+    },
+    {
+      "id": 499,
+      "en"en"Can you speak louder please?",
+      "mean": "Bạn có thể nói lớn hơn được không?",
+      "note": ""
+    },
+    {
+      "id": 500,
+      "en"en"Where's the post office?",
+      "mean": "Bưu điện ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 501,
+      "en"en"Please sit down.",
+      "mean": "Xin mời ngồi.",
+      "note": ""
+    },
+    {
+      "id": 502,
+      "en"en"Are you afraid?",
+      "mean": "Bạn sợ không?",
+      "note": ""
+    },
+    {
+      "id": 503,
+      "en"en"And you?",
+      "mean": "Còn bạn?",
+      "note": ""
+    },
+    {
+      "id": 504,
+      "en"en"Can you call me back later?",
+      "mean": "Bạn có thể gọi lại cho tôi sau được không?",
+      "note": ""
+    },
+    {
+      "id": 505,
+      "en"en"Can you swim?",
+      "mean": "Bạn biết bơi không?",
+      "note": ""
+    },
+    {
+      "id": 506,
+      "en"en"I give up.",
+      "mean": "Tôi bỏ cuộc.",
+      "note": ""
+    },
+    {
+      "id": 507,
+      "en"en"How do you say it in English?",
+      "mean": "Bạn nói điều đó bằng tiếng Anh như thế nào?",
+      "note": ""
+    },
+    {
+      "id": 508,
+      "en"en"The accident happened at the intersection.",
+      "mean": "Tai nạn xảy ra tại giao lộ.",
+      "note": ""
+    },
+    {
+      "id": 509,
+      "en"en"I don't mind.",
+      "mean": "Tôi không quan tâm.",
+      "note": ""
+    },
+    {
+      "id": 510,
+      "en"en"How do you spell the word \"Seattle?\"",
+      "mean": "Bạn đánh vần chữ Seattle như thế nào?",
+      "note": ""
+    },
+    {
+      "id": 511,
+      "en"en"I don't think so.",
+      "mean": "Tôi không nghĩ vậy.",
+      "note": ""
+    },
+    {
+      "id": 512,
+      "en"en"Let's meet in front of the hotel.",
+      "mean": "Chúng ta hãy gặp nhau trước khách sạn.",
+      "note": ""
+    },
+    {
+      "id": 513,
+      "en"en"My stomach hurts.",
+      "mean": "Tôi đau bụng.",
+      "note": ""
+    },
+    {
+      "id": 514,
+      "en"en"I still haven't decided.",
+      "mean": "Tôi vẫn chưa quyết định.",
+      "note": ""
+    },
+    {
+      "id": 515,
+      "en"en"My watch has been stolen.",
+      "mean": "Đồng hồ tôi đã bị đánh cắp.",
+      "note": ""
+    },
+    {
+      "id": 516,
+      "en"en"Can you fix this?",
+      "mean": "Bạn có thể sửa cái này không?",
+      "note": ""
+    },
+    {
+      "id": 517,
+      "en"en"Call me.",
+      "mean": "Gọi điện cho tôi.",
+      "note": ""
+    },
+    {
+      "id": 518,
+      "en"en"I'm self-employed.",
+      "mean": "Tôi tự làm chủ.",
+      "note": ""
+    },
+    {
+      "id": 519,
+      "en"en"I don't care.",
+      "mean": "Tôi không cần.",
+      "note": ""
+    },
+    {
+      "id": 520,
+      "en"en"I have a cold.",
+      "mean": "Tôi bị cảm.",
+      "note": ""
+    },
+    {
+      "id": 521,
+      "en"en"I have one in my car.",
+      "mean": "Tôi có một cái trong xe.",
+      "note": ""
+    },
+    {
+      "id": 522,
+      "en"en"Where can I exchange U.S. dollars?",
+      "mean": "Tôi có thể đổi đô la Mỹ ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 523,
+      "en"en"I can swim.",
+      "mean": "Tôi có thể bơi.",
+      "note": ""
+    },
+    {
+      "id": 524,
+      "en"en"I think you have too many clothes.",
+      "mean": "Tôi nghĩ bạn có nhiều quần áo quá.",
+      "note": ""
+    },
+    {
+      "id": 525,
+      "en"en"It depends on the weather.",
+      "mean": "Tùy vào thời tiết.",
+      "note": ""
+    },
+    {
+      "id": 526,
+      "en"en"Behind the bank.",
+      "mean": "Sau ngân hàng.",
+      "note": ""
+    },
+    {
+      "id": 527,
+      "en"en"I trust you.",
+      "mean": "Tôi tin bạn.",
+      "note": ""
+    },
+    {
+      "id": 528,
+      "en"en"Do you sell batteries?",
+      "mean": "Bạn có bán pin không?",
+      "note": ""
+    },
+    {
+      "id": 529,
+      "en"en"Where's the nearest hospital?",
+      "mean": "Bệnh viện gần nhất ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 530,
+      "en"en"I made this cake.",
+      "mean": "Tôi làm cái bánh này.",
+      "note": ""
+    },
+    {
+      "id": 531,
+      "en"en"My luggage is missing.",
+      "mean": "Hành lý của tôi bị thất lạc.",
+      "note": ""
+    },
+    {
+      "id": 532,
+      "en"en"Are you okay?",
+      "mean": "Bạn có khỏe không?",
+      "note": ""
+    },
+    {
+      "id": 533,
+      "en"en"Can you give me an example?",
+      "mean": "Bạn có thể cho tôi một thí dụ được không?",
+      "note": ""
+    },
+    {
+      "id": 534,
+      "en"en"I understand now.",
+      "mean": "Bây giờ tôi hiểu.",
+      "note": ""
+    },
+    {
+      "id": 535,
+      "en"en"How do you spell it?",
+      "mean": "Bạn đánh vần nó như thế nào?",
+      "note": ""
+    },
+    {
+      "id": 536,
+      "en"en"I got in an accident.",
+      "mean": "Tôi gặp tai nạn.",
+      "note": ""
+    },
+    {
+      "id": 537,
+      "en"en"Anything else?",
+      "mean": "Còn gì nữa không?",
+      "note": ""
+    },
+    {
+      "id": 538,
+      "en"en"Are they the same?",
+      "mean": "Chúng giống nhau không?",
+      "note": ""
+    },
+    {
+      "id": 539,
+      "en"en"Are you going to attend their wedding?",
+      "mean": "Bạn sẽ dự đám cưới của họ không?",
+      "note": ""
+    },
+    {
+      "id": 540,
+      "en"en"Are you married?",
+      "mean": "Bạn có gia đình không?",
+      "note": ""
+    },
+    {
+      "id": 541,
+      "en"en"I don't speak English very well.",
+      "mean": "Tôi không nói tiếng Anh giỏi lắm.",
+      "note": ""
+    },
+    {
+      "id": 542,
+      "en"en"I still have a lot to do.",
+      "mean": "Tôi còn nhiều thứ phải làm.",
+      "note": ""
+    },
+    {
+      "id": 543,
+      "en"en"It's very cold today.",
+      "mean": "Hôm nay trời rất lạnh.",
+      "note": ""
+    },
+    {
+      "id": 544,
+      "en"en"Where do you work?",
+      "mean": "Bạn làm việc ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 545,
+      "en"en"Are you allergic to anything?",
+      "mean": "Bạn có dị ứng với thứ gì không?",
+      "note": ""
+    },
+    {
+      "id": 546,
+      "en"en"Are you sick?",
+      "mean": "Bạn ốm hả?",
+      "note": ""
+    },
+    {
+      "id": 547,
+      "en"en"Does he like the school?",
+      "mean": "Anh ta có thích trường đó không/",
+      "note": ""
+    },
+    {
+      "id": 548,
+      "en"en"Are you ready?",
+      "mean": "Bạn sẵn sàng chưa?",
+      "note": ""
+    },
+    {
+      "id": 549,
+      "en"en"My throat is sore.",
+      "mean": "Tôi đau họng.",
+      "note": ""
+    },
+    {
+      "id": 550,
+      "en"en"Can I have the bill please?",
+      "mean": "Làm ơn đưa phiếu tính tiền.",
+      "note": ""
+    },
+    {
+      "id": 551,
+      "en"en"Can you call back later?",
+      "mean": "Bạn có thể gọi lại sau được không?",
+      "note": ""
+    },
+    {
+      "id": 552,
+      "en"en"Can you carry this for me?",
+      "mean": "Bạn có thể mang giúp tôi cái này được không?",
+      "note": ""
+    },
+    {
+      "id": 553,
+      "en"en"Do you accept U.S. Dollars?",
+      "mean": "Bạn có nhận đô Mỹ không?",
+      "note": ""
+    },
+    {
+      "id": 554,
+      "en"en"Do you have a problem?",
+      "mean": "Bạn có vấn đề à?",
+      "note": ""
+    },
+    {
+      "id": 555,
+      "en"en"Do you hear that?",
+      "mean": "Bạn có nghe cái đó không?",
+      "note": ""
+    },
+    {
+      "id": 556,
+      "en"en"Do you know where my glasses are?",
+      "mean": "Bạn có biết cặp kính của tôi ở đâu không?",
+      "note": ""
+    },
+    {
+      "id": 557,
+      "en"en"Do you need anything else?",
+      "mean": "Bạn còn cần gì nữa không?",
+      "note": ""
+    },
+    {
+      "id": 558,
+      "en"en"Do you know where I can get a taxi?",
+      "mean": "Bạn có biết tôi có thể gọi tắc xi ở đâu không?",
+      "note": ""
+    },
+    {
+      "id": 559,
+      "en"en"Do you like your co-workers?",
+      "mean": "Bạn có thích bạn đồng nghiệp của bạn không?",
+      "note": ""
+    },
+    {
+      "id": 560,
+      "en"en"Do you have an appointment?",
+      "mean": "Bạn có hẹn không?",
+      "note": ""
+    },
+    {
+      "id": 561,
+      "en"en"Do you have a girlfriend?",
+      "mean": "Bạn có bạn gái không?",
+      "note": ""
+    },
+    {
+      "id": 562,
+      "en"en"Do you know how to get to the Marriott Hotel?",
+      "mean": "Bạn có biết đường tới khách sạn Marriott không?",
+      "note": ""
+    },
+    {
+      "id": 563,
+      "en"en"Do you know what this means?",
+      "mean": "Bạn có biết cái này nghĩa là gì không?",
+      "note": ""
+    },
+    {
+      "id": 564,
+      "en"en"Yes.",
+      "mean": "Vâng.",
+      "note": ""
+    },
+    {
+      "id": 565,
+      "en"en"You have a very nice car.",
+      "mean": "Bạn có một chiếc xe rất đẹp.",
+      "note": ""
+    },
+    {
+      "id": 566,
+      "en"en"Bring me my shirt please.",
+      "mean": "Làm ơn đưa giùm cái áo sơ mi của tôi.",
+      "note": ""
+    },
+    {
+      "id": 567,
+      "en"en"Do you like to watch TV?",
+      "mean": "Bạn có thích xem tivi không?",
+      "note": ""
+    },
+    {
+      "id": 568,
+      "en"en"Are you waiting for someone?",
+      "mean": "Bạn đang chờ ai đó hả?",
+      "note": ""
+    },
+    {
+      "id": 569,
+      "en"en"Are you working today?",
+      "mean": "Hôm nay bạn có làm việc không?",
+      "note": ""
+    },
+    {
+      "id": 570,
+      "en"en"You look like my sister.",
+      "mean": "Bạn trông giống em gái (chị) của tôi.",
+      "note": ""
+    },
+    {
+      "id": 571,
+      "en"en"6 dollars per hour.",
+      "mean": "6 đô 1 giờ.",
+      "note": ""
+    },
+    {
+      "id": 572,
+      "en"en"Have you finished studying?",
+      "mean": "Bạn đã học xong chưa?",
+      "note": ""
+    },
+    {
+      "id": 573,
+      "en"en"Do you like your boss?",
+      "mean": "Bạn có thích sếp của bạn không?",
+      "note": ""
+    },
+    {
+      "id": 574,
+      "en"en"How long have you worked here?",
+      "mean": "Bạn đã làm việc ở đây bao lâu?",
+      "note": ""
+    },
+    {
+      "id": 575,
+      "en"en"How much money do you have?",
+      "mean": "Bạn có bao nhiêu tiền?",
+      "note": ""
+    },
+    {
+      "id": 576,
+      "en"en"How's the weather?",
+      "mean": "Thời tiết thế nào?",
+      "note": ""
+    },
+    {
+      "id": 577,
+      "en"en"He's very hard working.",
+      "mean": "Anh ta rất chăm chỉ.",
+      "note": ""
+    },
+    {
+      "id": 578,
+      "en"en"He's an Engineer.",
+      "mean": "Anh ta là kỹ sư.",
+      "note": ""
+    },
+    {
+      "id": 579,
+      "en"en"How many hours a week do you work?",
+      "mean": "Bạn làm việc mấy giờ một tuần?",
+      "note": ""
+    },
+    {
+      "id": 580,
+      "en"en"He works at a computer company in New York.",
+      "mean": "Anh ta làm việc tại một công ty máy tính ở New York.",
+      "note": ""
+    },
+    {
+      "id": 581,
+      "en"en"I've seen it.",
+      "mean": "Tôi đã thấy nó.",
+      "note": ""
+    },
+    {
+      "id": 582,
+      "en"en"What does he do for work?",
+      "mean": "Anh ta làm nghề gì?",
+      "note": ""
+    },
+    {
+      "id": 583,
+      "en"en"I forget.",
+      "mean": "Tôi quên.",
+      "note": ""
+    },
+    {
+      "id": 584,
+      "en"en"How was the trip?",
+      "mean": "Chuyến đi thế nào?",
+      "note": ""
+    },
+    {
+      "id": 585,
+      "en"en"I'm ready.",
+      "mean": "Tôi sẵn sàng.",
+      "note": ""
+    },
+    {
+      "id": 586,
+      "en"en"I'm good.",
+      "mean": "Tôi khỏe.",
+      "note": ""
+    },
+    {
+      "id": 587,
+      "en"en"I still have a lot of things to buy.",
+      "mean": "Tôi còn nhiều thứ phải mua.",
+      "note": ""
+    },
+    {
+      "id": 588,
+      "en"en"What do your parents do for work?",
+      "mean": "Bố mẹ bạn làm nghề gì?",
+      "note": ""
+    },
+    {
+      "id": 589,
+      "en"en"What do you do for work?",
+      "mean": "Bạn làm nghề gì?",
+      "note": ""
+    },
+    {
+      "id": 590,
+      "en"en"What's the matter?",
+      "mean": "Có chuyện gì vậy?",
+      "note": ""
+    },
+    {
+      "id": 591,
+      "en"en"What time do you go to work everyday?",
+      "mean": "Mỗi ngày bạn đi làm lúc mấy giờ?",
+      "note": ""
+    },
+    {
+      "id": 592,
+      "en"en"What does your father do for work?",
+      "mean": "Bố bạn làm nghề gì?",
+      "note": ""
+    },
+    {
+      "id": 593,
+      "en"en"When do you arrive in the U.S.?",
+      "mean": "Khi nào bạn tới Mỹ?",
+      "note": ""
+    },
+    {
+      "id": 594,
+      "en"en"Where did you put it?",
+      "mean": "Bạn đã đặt nó ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 595,
+      "en"en"Is it ready?",
+      "mean": "Nó sẵn sàng không?",
+      "note": ""
+    },
+    {
+      "id": 596,
+      "en"en"Where does it hurt?",
+      "mean": "Đau ở đâu?",
+      "note": ""
+    },
+    {
+      "id": 597,
+      "en"en"Do you think it's going to rain tomorrow?",
+      "mean": "Bạn có nghĩ ngày mai trời sẽ mưa không?",
+      "note": ""
+    },
+    {
+      "id": 598,
+      "en"en"When do you get off work?",
+      "mean": "Khi nào bạn xong việc?",
+      "note": ""
+    },
+    {
+      "id": 599,
+      "en"en"Is it possible?",
+      "mean": "Điều đó có thể không?",
+      "note": ""
+    },
+    {
+      "id": 600,
+      "en"en"Do you think it'll rain today?",
+      "mean": "Bạn có nghĩ ngày mai trời sẽ mưa không?",
+      "note": ""
+    },
+    {
+      "id": 601,
+      "en"en"Where do you want to go?",
+      "mean": "Bạn muốn đi đâu?",
+      "note": ""
+    },
+    {
+      "id": 602,
+      "en"en"Is it close?",
+      "mean": "Nó gần không?",
+      "note": ""
+    },
+    {
+      "id": 603,
+      "en"en"Come here.",
+      "mean": "Tới đây.",
+      "note": ""
+    },
+    {
+      "id": 604,
+      "en"en"Does it often snow in the winter in Massachusetts?",
+      "mean": "Trời có thường mưa tuyết vào mùa đông ở Massachusetts không?",
+      "note": ""
+    },
+    {
+      "id": 605,
+      "en"en"How's business?",
+      "mean": "Việc làm ăn thế nào?",
+      "note": ""
+    },
+    {
+      "id": 606,
+      "en"en"It's too late.",
+      "mean": "Muộn quá rồi.",
+      "note": ""
+    },
+    {
+      "id": 607,
+      "en"en"It's north of here.",
+      "mean": "Nó ở phía bắc nơi này.",
+      "note": ""
+    },
+    {
+      "id": 608,
+      "en"en"It hurts here.",
+      "mean": "Đau ở đây.",
+      "note": ""
+    },
+    {
+      "id": 609,
+      "en"en"It costs 20 dollars per hour.",
+      "mean": "Giá 20 đô một giờ.",
+      "note": ""
+    },
+    {
+      "id": 610,
+      "en"en"It's over there.",
+      "mean": "Nó ở đằng kia.",
+      "note": ""
+    },
+    {
+      "id": 611,
+      "en"en"It's raining.",
+      "mean": "Trời đang mưa.",
+      "note": ""
+    },
+    {
+      "id": 612,
+      "en"en"It's very important.",
+      "mean": "Nó rất quan trọng.",
+      "note": ""
+    },
+    {
+      "id": 613,
+      "en"en"It's going to be hot today.",
+      "mean": "Hôm nay trời sẽ nóng.",
+      "note": ""
+    },
+    {
+      "id": 614,
+      "en"en"It's far from here.",
+      "mean": "Nó cách xa đây.",
+      "note": ""
+    },
+    {
+      "id": 615,
+      "en"en"The roads are slippery.",
+      "mean": "Đường trơn.",
+      "note": ""
+    },
+    {
+      "id": 616,
+      "en"en"What will the weather be like tomorrow?",
+      "mean": "Ngày mai thời tiết thế nào?",
+      "note": ""
+    },
+    {
+      "id": 617,
+      "en"en"It will arrive shortly.",
+      "mean": "Nó sẽ sớm tới.",
+      "note": ""
+    },
+    {
+      "id": 618,
+      "en"en"What's the room rate?",
+      "mean": "Giá phòng bao nhiêu?",
+      "note": ""
+    }
+  ]
+}
